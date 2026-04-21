@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miracbal53" alt="miracbal53" /></a> </p>
 
-- 🔭 I have a startup company [Jora Store](www.jorastore.com.tr)
 
 - ⚡ Fun fact **Technical analysis in financial markets**
 
